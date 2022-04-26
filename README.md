@@ -1,4 +1,4 @@
-# OS-Lab-CodeTantra
+# OS-Lab-CodeTantra All Programs Name
 **Program 1**. WAP to Implement Multilevel Queue Scheduling.
 **Program 2**. Implementation of Round Robin CPU scheduling Algorithm.
 **Program 3**. WAP to implement the PRIORITY based CPU Scheduling algorithm.
